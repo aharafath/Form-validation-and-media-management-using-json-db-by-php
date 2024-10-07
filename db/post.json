@@ -1,0 +1,84 @@
+[
+  {
+    "id": "post_1727979599_c7c831ff9e",
+    "user_name": "arafath",
+    "user_photo": "1727979599_3930235_7689305421.webp",
+    "post_content": "Test",
+    "post_images": [
+      "1727979599_8899881_2531984607.jpg",
+      "1727979599_1542605_1783092645.jpg",
+      "1727979599_2425072_0653487291.jpeg"
+    ],
+    "post_videos": ["1727979599_8135178_8495062371.mp4"],
+    "likes": 0,
+    "comments": [],
+    "created_at": 1727979599,
+    "updated_at": null
+  },
+  {
+    "id": "post_1727979652_7c3900847a",
+    "user_name": "eyasintest",
+    "user_photo": "1727979652_2601118_2036974158.png",
+    "post_content": "Test",
+    "post_images": [],
+    "post_videos": [],
+    "likes": 0,
+    "comments": [],
+    "created_at": 1727979652,
+    "updated_at": null
+  },
+  {
+    "id": "post_1727979696_c533e2f151",
+    "user_name": "admin",
+    "user_photo": "1727979696_6615163_3260948751.png",
+    "post_content": null,
+    "post_images": [
+      "1727979696_185095_3506471829.jpg",
+      "1727979696_4056557_5980167432.jpeg"
+    ],
+    "post_videos": ["1727979696_5876457_9718364502.mp4"],
+    "likes": 0,
+    "comments": [],
+    "created_at": 1727979696,
+    "updated_at": null
+  },
+  {
+    "id": "post_1727982201_575ce55c91",
+    "user_name": "Md Yeasin Arafath",
+    "user_photo": "1727982201_5411509_9827460351.jpg",
+    "post_content": "My Name Is Yeasin Arafath",
+    "post_images": ["1727982201_2799113_5074312986.png"],
+    "post_videos": [],
+    "likes": 0,
+    "comments": [],
+    "created_at": 1727982201,
+    "updated_at": null
+  },
+  {
+    "id": "post_1728290468_7d81268864",
+    "user_name": "Asma Chanda ",
+    "user_photo": "1728290468_7038300_5167934082.jpg",
+    "post_content": "My Name Is Asma",
+    "post_images": ["1728290468_8349737_6051284937.png"],
+    "post_videos": [],
+    "likes": 0,
+    "comments": [],
+    "created_at": 1728290468,
+    "updated_at": null
+  },
+  {
+    "id": "post_1728293976_446b83f46e",
+    "user_name": "Abdullah",
+    "user_photo": "1728293976_8356445_5639108247.jpg",
+    "post_content": "My Name Is Abdullah",
+    "post_images": [
+      "1728293976_2400474_9352641087.png",
+      "1728293976_1386354_1287594306.png"
+    ],
+    "post_videos": [],
+    "likes": 0,
+    "comments": [],
+    "created_at": 1728293976,
+    "updated_at": null
+  }
+]
